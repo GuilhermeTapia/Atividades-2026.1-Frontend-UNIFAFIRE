@@ -1,0 +1,39 @@
+/* HEADER - cor de fundo */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+/* NAV - centralizado */
+nav {
+    text-align: center;
+    padding: 10px;
+    background-color: #eee;
+}
+
+/* MAIN - margem */
+main {
+    margin: 20px;
+}
+
+/* SECTION - borda */
+section {
+    border: 2px solid #333;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+/* ASIDE - cor diferente */
+aside {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+/* FOOTER - texto pequeno */
+footer {
+    font-size: 12px;
+    text-align: center;
+    padding: 10px;
+}
