@@ -1,0 +1,17 @@
+/* Container agora em coluna */
+.container {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;     
+    gap: 40px;               
+    margin-top: 50px;
+}
+
+/* Cards com nova cor */
+.card {
+    background-color: #cce5ff; 
+    padding: 30px;
+    border: 2px solid #333;
+    width: 150px;
+    text-align: center;
+}
