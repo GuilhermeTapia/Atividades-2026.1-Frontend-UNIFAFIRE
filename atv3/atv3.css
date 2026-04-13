@@ -1,0 +1,39 @@
+/* HEADER */
+header {
+    background-color: #4CAF50;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+/* NAV */
+nav {
+    background-color: #ddd;
+    padding: 10px;
+}
+
+/* MAIN */
+main {
+    margin: 20px;
+}
+
+/* SECTION */
+section {
+    border: 2px solid #333;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+/* ASIDE */
+aside {
+    background-color: #f0f0f0;
+    padding: 15px;
+}
+
+/* FOOTER */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
